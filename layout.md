@@ -9,3 +9,4 @@ Menulis_proposal_Pendahuluan_Seperti_halnya__.md
 Mengkomunikasikan_riset_Pendahuluan_Mengkomunikasikan_riset__.md
 Siapa_yang_akan_membaca_tesis__.md
 Menulis_tesis_disertasi_dengan_upaya__.md
+Merespon_hasil_negatif_Pendahuluan_Just__.md
