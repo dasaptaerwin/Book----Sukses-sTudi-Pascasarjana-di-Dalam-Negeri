@@ -19,10 +19,12 @@ Berikut ini adalah beberapa indikator hasil riset yang selama ini kita kenal, se
 
 Di luar dari itu, dalam pemahaman _open science_, beberapa hal ini juga terhitung sebagai output riset yang layak untuk dikomunikasikan:
 
-1. _data protocols_: protokol pengambilan data di lapangan, rekaman video pengambilan data dan presentasi yang dimuat di media daring ([Youtube](youtube.com) atau [Vimeo](vimeo.com) 
-2. _proposal_: proposal walaupun notebene masih berupa rencana kerja juga adalah hasil olah pikir yang layak untuk dipublikasikan. Tujuannya selain untuk mengklaim pemikiran kita, juga untuk mengundang sponsor. Percaya atau tidak di luar negeri sudah sangat biasa mengunggah proposal bahkan tidak hanya format tulisan juga format video blognya untuk mengundang dana dari para donatur (_crowd-source funding_). 
-3. _blog post_: dokumen ini tidak lain adalah versi lebih ringan dari makalah ilmiah. Biasanya diunggah ke platform blogging seperti [Wordpress](wordpress.com), [Blogger/Blogspot](blogspot.com), atau yang baru adalah [Medium](medium.com). 
-4. kultwit: yaitu kumpulan twit (_tweet_) yang membahas tema tertentu. Twit-twit ini biasanya ditandai dengan tager (_hashtag_) tertentu agar mudah dicari oleh khalayak ramai.
-5. live twit: kumpulan twit yang dikirimkan secara langsung dari lokasi seminar.
-6. _preprint_: versi final makalah ilmiah sebelum dikirimkan ke jurnal atau berkala. Biasanya makalah ini akan direvisi sesuai dengan catatan dari _reviewer_, namun demikian umumnya tidak akan berbeda jauh dari format asalnya. Anda dapat mencari makalah yang anda perlukan di beberapa server _preprint_ sebagai berikut: [ArXiv](arxiv.org), [BiorXiv](biorxiv.org), [SocArXiv](https://osf.io/preprints/socarxiv).
-7. ), dll. Anda memang harus lebih kreatif lagi untuk menekankan pentingnya makalah anda. Pekerjaan tidak berhenti saat makalah telah terbit. Pada tulisan terpisah, kami akan sampaikan paparan tentang alternatif _scientific metric_.
+1. **data protocols**: protokol pengambilan data di lapangan, rekaman video pengambilan data dan presentasi yang dimuat di media daring ([Youtube](youtube.com) atau [Vimeo](vimeo.com) 
+2. **proposal**: proposal walaupun notebene masih berupa rencana kerja juga adalah hasil olah pikir yang layak untuk dipublikasikan. Tujuannya selain untuk mengklaim pemikiran kita, juga untuk mengundang sponsor. Percaya atau tidak di luar negeri sudah sangat biasa mengunggah proposal bahkan tidak hanya format tulisan juga format video blognya untuk mengundang dana dari para donatur (_crowd-source funding_). 
+3. **blog post**: dokumen ini tidak lain adalah versi lebih ringan dari makalah ilmiah. Biasanya diunggah ke platform blogging seperti [Wordpress](wordpress.com), [Blogger/Blogspot](blogspot.com), atau yang baru adalah [Medium](medium.com). 
+4. **kultwit**: yaitu kumpulan twit (_tweet_) yang membahas tema tertentu. Twit-twit ini biasanya ditandai dengan tager (_hashtag_) tertentu agar mudah dicari oleh khalayak ramai.
+5. **live twit**: kumpulan twit yang dikirimkan secara langsung dari lokasi seminar.
+6. **preprint**: versi final makalah ilmiah sebelum dikirimkan ke jurnal atau berkala. Biasanya makalah ini akan direvisi sesuai dengan catatan dari _reviewer_, namun demikian umumnya tidak akan berbeda jauh dari format asalnya. Anda dapat mencari makalah yang anda perlukan di beberapa server _preprint_ sebagai berikut: [ArXiv](arxiv.org), [BiorXiv](biorxiv.org), [SocArXiv](https://osf.io/preprints/socarxiv).
+7. 
+
+Anda memang harus lebih kreatif lagi untuk menekankan pentingnya makalah anda. Pekerjaan tidak berhenti saat makalah telah terbit. Pada tulisan terpisah, kami akan sampaikan paparan tentang alternatif _scientific metric_.
