@@ -1,12 +1,5 @@
-# Perlukah inisiatif?
+# Bagaimana bekerja dengan target
 
-
-# Beberapa kebiasaan yang disarankan
-
-
-# Bagaimana berhubungan dengan Pembimbing?
-
-
-
+.....
 
 
