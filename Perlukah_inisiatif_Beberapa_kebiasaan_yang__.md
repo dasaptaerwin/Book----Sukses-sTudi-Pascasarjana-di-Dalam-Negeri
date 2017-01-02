@@ -8,14 +8,5 @@
 
 
 
-# Bagaimana bekerja dengan target
-
-
-
-
-
-# Mengkomunikasikan riset
-
-
 
 
