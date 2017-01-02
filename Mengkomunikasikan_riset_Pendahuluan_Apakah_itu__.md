@@ -27,7 +27,7 @@ Berikut ini adalah beberapa indikator hasil riset yang selama ini kita kenal, se
 
 Di luar dari itu, dalam pemahaman _open science_, beberapa hal ini juga terhitung sebagai output riset yang layak untuk dikomunikasikan:
 
-1. **Data protocols**: protokol pengambilan data di lapangan, rekaman video pengambilan data dan presentasi yang dimuat di media daring ([Youtube](youtube.com) atau [Vimeo](vimeo.com) 
+1. **Data protocols**: protokol pengambilan data di lapangan, rekaman video pengambilan data dan presentasi yang dimuat di media daring ([Youtube](youtube.com) atau [Vimeo](vimeo.com))
 2. **Proposal**: proposal walaupun notebene masih berupa rencana kerja juga adalah hasil olah pikir yang layak untuk dipublikasikan. Tujuannya selain untuk mengklaim pemikiran kita, juga untuk mengundang sponsor. Percaya atau tidak di luar negeri sudah sangat biasa mengunggah proposal bahkan tidak hanya format tulisan juga format video blognya untuk mengundang dana dari para donatur (_crowd-source funding_). 
 3. **Blog post**: dokumen ini tidak lain adalah versi lebih ringan dari makalah ilmiah. Biasanya diunggah ke platform blogging seperti [Wordpress](wordpress.com), [Blogger/Blogspot](blogspot.com), atau yang baru adalah [Medium](medium.com). 
 4. **Kultwit**: yaitu kumpulan twit (_tweet_) yang membahas tema tertentu. Twit-twit ini biasanya ditandai dengan tager (_hashtag_) tertentu agar mudah dicari oleh khalayak ramai. **Live twit**: kumpulan twit yang dikirimkan secara langsung dari lokasi seminar.
