@@ -1,5 +1,7 @@
 # Menulis tesis/disertasi dengan upaya minimum
 
+## Pola lama
+
 Saat ini alur kerja riset mengikuti pola yang selama ini dianut, sejak mencari ide, mengambil data, menganalisis, menginterpretasi, dan melaporkan. Pola kerja periset yang kami amati masih bersifat offline. Seluruh hasil kerja tersimpan dalam hard drive masing-masing periset dan yang pada saatnya akan digabungkan secara offline pula. Tipikal pola kerja adalah sebagai berikut:
 
 Purpose is the reason of your journey. Passion is the fire that lights your way. 
@@ -16,3 +18,9 @@ Purpose is the reason of your journey. Passion is the fire that lights your way.
 8. **bekerja dengan sedikit atau bahkan tanpa umpan balik (to work with less or no feedback)**: Feedback hanya akan masuk dari rekan-rekan di sekitar penulis atau peneliti. Umpan balik tersebut hanya diberikan di akhir saat laporan telah selesai disusun;
 9. **bekerja secara sequential atau linear (to work in sequential and linear mode)**: Riset dilaksanakan secara berurutan (sequential) dan linear, nyaris tanpa variasi dengan dinamika. Padahal kita tahu bahwa banyak sekali kendala yang dapat mengendalikan arah riset (tidak akan linear);
 10. **bekerja dalam suasana “kering” (_to work without passion_)**: kami memunculkan hal ini di bagian akhir untuk mensimulasikan kondisi riset dan para penelitinya dengan berbagai kondisi yang telah disebutkan sebelumnya. Kering dalam hal ini kami artikan sebagai membosankan, tanpa variasi, tidak ada kegembiraan, tidak adanya semangat, passion, dan aura positif yang dapat dibagikan kepada lingkungan atau pembaca.
+
+## Pola masa kini
+
+...
+...
+...
