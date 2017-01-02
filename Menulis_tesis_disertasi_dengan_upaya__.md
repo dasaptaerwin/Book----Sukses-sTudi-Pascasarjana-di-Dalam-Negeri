@@ -1,5 +1,7 @@
 # Menulis tesis/disertasi dengan upaya minimum
 
+Bab ini kami tulis menggunakan logika berlawanan dalam konteks bahwa menulis tesis/disertasi bukan dimulai dari halaman ke-1 hingga ke sekian, bisa hingga 80.000 atau 100.000 kata. Kami tahu dan sadar bahwa menulis tugas akhir (tesis/disertasi) memerlukan upaya keras. Para mahasiswa harus berupaya maksimal untuk menyelesaikannya. Namun berdasarkan pengalaman ternyata ada caranya agar upaya maksimal tidak terlalu terasa. Dalam penceritaannya, kami mencoba mengungkap pola lama dan pola masa kini seperti dalam sub bab berikut ini.
+
 ## Pola lama
 
 Saat ini alur kerja riset mengikuti pola yang selama ini dianut, sejak mencari ide, mengambil data, menganalisis, menginterpretasi, dan melaporkan. Pola kerja periset yang kami amati masih bersifat offline. Seluruh hasil kerja tersimpan dalam hard drive masing-masing periset dan yang pada saatnya akan digabungkan secara offline pula. Tipikal pola kerja adalah sebagai berikut:
@@ -21,6 +23,26 @@ Purpose is the reason of your journey. Passion is the fire that lights your way.
 
 ## Pola masa kini
 
-...
-...
-...
+### Perkembangan _open science_
+
+Hasil dari pengamatan kami dalam melakukan riset perkembangan konsep _open science_ sangat terasa pada kurun waktu lima tahun terakhir. Beberapa indikator yang terlihat adalah:
+
+- meningkatnya jumlah jurnal open access, salah satunya adalah dengan terbitnya mega journal PLOS. Selain itu jurnal open access pun saat ini juga menyediakan berbagai media untuk mempublikasikan berbagai karya ilmiah non konvensional, seperti dapat diikuti di Riojournal, misal: proposal, ide riset, paper ringkas (single media paper), dll.;
+- meningkatnya jumlah repository online yang gratis dan open source, misal: [Figshare](figshare.com), [Zenodo](zenodo.org), [GitHub](github.com) dan [Open Science Framework](osf.io);
+- bertambahnya platform penulisan kolaboratif seperti yang digagas oleh [Overleaf](overleaf.com) dahulu Writelatex, [Sharelatex](sharelatex.com), atau [Authorea](authorea.com); 
+- Saat ini bahkan naskah _peer review_ yang selama ini hampir tidak pernah mendapatkan kredit, telah mendapatkan posisi yang layak sebagai bagian dari dokumen akademik. Platform seperti [Publons](Publons.com), [Peerage of Science](https://www.peerageofscience.org), [Hypothes.is](https://hypothes.is/), dan [Academic Karma](http://www.academickarma.org/), memberikan wadah kepada para peer reviewer mempublikasikan naskah review nya.
+- Cerita tentang _Post Publication Peer-Review_ dan perbandingannya dengan _Pre Publication Peer Review_ serta peran media saintifik seperti [ScienceOpen](scienceopen.com) untuk memberikan kredit kepada para pakar yang telah meluangkan waktunya untuk menulis komentar konstruktif. Jadi komentar anda saat ini telah dapat disitasi secara formal, di antaranya karena telah memiliki kode [DOI](doi.org) (_digital object identifier_).
+
+### Media sosial untuk akademia
+
+Sementara itu media sosial juga mengisi kekosongan antara peneliti/penulis dengan pembaca. Twitter dalam hal ini memimpin untuk diseminasi ilmu. Sebuah artikel yang dimuat di Blog Nature Publishing Group telah menyusun karakter berbagai media sosial dalam hal komunikasi keilmuan atau science communication. Kini hasil riset sesederhana apapun akan segera dapat diketahui oleh peneliti di belahan dunia yang lain.
+
+Untuk beberapa bidang seperti kedokteran, ilmu kesehatan, paleontologi, yang melibatkan penemuan invensi terobosan, maka waktu antara 3 – 6 bulan dari makalah dikirim ke redaksi, direview, hingga dinyatakan diterima adalah waktu yang sangat panjang. Untuk mensiasati itu, saat ini ada makalah berjenis preprint atau eprint sebagai jembatan agar para peneliti dapat mengklaim hasil kerjanya di saat proses peer-review sedang berjalan. Atau saat ini ada pola peer-review baru, yakni post publication peer-review. Beberapa bentuk startup di bidang akademik memperlihatkan model bisnis yang unik. Salah satunya adalah [The Winnower](thewinnower.com), yang saat ini telah diakuisisi oleh [Authorea](authorea.com).
+
+### Dinamika dalam pengukuran indikator kinerja peneliti atau penulis 
+
+Indikator-indikator konvensional seperti [Impact Factor](http://wokinfo.com/essays/impact-factor/), Indeks Sitasi (_citation index_), perlu ditinjau ulang. Berbagai institusi pendidikan dan penelitian saat ini menempatkan pengukuran indikator ini sebagai masalah utama. Data makalah yang disusun oleh seseorang dosen/peneliti adalah data utama yang dicari. Saat ini masalah tersebut telah sedikit ada solusinya dengan adanya [ORCID](orcid.org), sebuah organisasi nir laba dan independen yang banyak menjalin kerjasama sinkronisasi akun dengan beberapa profil di atas. Keberadaan ORCID dapat menjadi “jembatan” (bridging) untuk menghindari duplikasi identitas dan mengintegrasikan data karya peneliti.
+
+### Catatan akhir
+
+Walaupun perkembangan ini bertujuan akhir mengerucut pada keinginan untuk membuat sains lebih terbuka bagi semua orang, sehingga akan lebih banyak terjalin kolaborasi yang berdampak kepada pengembangan ilmu yang lebih signifikan, namun tentunya perlu disikapi secara bijak.
