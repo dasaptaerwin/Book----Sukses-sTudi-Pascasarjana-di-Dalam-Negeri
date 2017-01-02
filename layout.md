@@ -5,5 +5,5 @@ Apa_saja_yang_akan_anda__.md
 Bagaimana_tahapannya__.md
 Perlukah_inisiatif_Pendahuluan_Pendidikan_magister__.md
 Bagaimana_bekerja_dengan_target__.md
-Mengkomunikasikan_riset_Apakah_itu_Apa__.md
+Mengkomunikasikan_riset_Pendahuluan_Apakah_itu__.md
 Menulis_tesis_disertasi_dengan_upaya__.md
