@@ -1,6 +1,6 @@
 untitled.md
 Apakah_perlu_studi_lanjut__.md
-Beberapa__reality_check___.md
+Beberapa__reality_check__Reality_check__.md
 Apa_saja_yang_akan_anda__.md
 Bagaimana_tahapannya__.md
 Perlukah_inisiatif_Beberapa_kebiasaan_yang__.md
