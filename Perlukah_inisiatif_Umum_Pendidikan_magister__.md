@@ -1,6 +1,6 @@
 # Perlukah inisiatif?
 
-## Umum
+## Pendahuluan
 
 Pendidikan magister dan doktor bersifat mandiri. Tercapai atau tidaknya tujuan akan bergantung kepada mahasiswa masing-masing.
 
