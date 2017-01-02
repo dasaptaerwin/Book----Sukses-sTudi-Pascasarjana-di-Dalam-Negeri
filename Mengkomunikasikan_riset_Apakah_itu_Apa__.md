@@ -1,8 +1,11 @@
 # Mengkomunikasikan riset
 
-## Apakah itu?
+## Pendahuluan
 
-## Apa tujuannya?
+### Apakah itu?
+
+### Apa tujuannya?
+
 
 ## Berbagai indikator riset saat ini
 
@@ -26,3 +29,9 @@ Di luar dari itu, dalam pemahaman _open science_, beberapa hal ini juga terhitun
 6. **Preprint**: versi final makalah ilmiah sebelum dikirimkan ke jurnal atau berkala. Biasanya makalah ini akan direvisi sesuai dengan catatan dari _reviewer_, namun demikian umumnya tidak akan berbeda jauh dari format asalnya. Anda dapat mencari makalah yang anda perlukan di beberapa server _preprint_ sebagai berikut: [ArXiv](arxiv.org), [BiorXiv](biorxiv.org), [SocArXiv](https://osf.io/preprints/socarxiv).
 
 Anda memang harus lebih kreatif lagi untuk menekankan pentingnya makalah anda. Pekerjaan tidak berhenti saat makalah telah terbit. Pada tulisan terpisah, kami akan sampaikan paparan tentang alternatif _scientific metric_.
+
+## Menghindari _scooping_
+...
+
+## Catatan akhir
+...
