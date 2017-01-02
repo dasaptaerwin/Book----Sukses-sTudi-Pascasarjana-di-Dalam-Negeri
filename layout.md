@@ -3,6 +3,6 @@ Apakah_perlu_studi_lanjut__.md
 Beberapa__reality_check__Reality_check__.md
 Apa_saja_yang_akan_anda__.md
 Bagaimana_tahapannya__.md
-Perlukah_inisiatif_Beberapa_kebiasaan_yang__.md
+Bagaimana_bekerja_dengan_target__.md
 Mengkomunikasikan_riset_Apakah_itu_Apa__.md
 Menulis_tesis_disertasi_dengan_upaya__.md
