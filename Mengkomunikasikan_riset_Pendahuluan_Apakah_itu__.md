@@ -2,15 +2,9 @@
 
 ## Pendahuluan
 
-...
+Mengkomunikasikan riset adalah bagian dari komunikasi sains (_science communication_). Ini bagian integral dari riset. Bagaimana masyarakat tahun apa yang anda kerjakan bila tidak disampaikan secara luas. Makalah ilmiah adalah sebagai kecil saja dari upaya mengkomunikasikan riset. 
 
-### Apakah itu?
-
-...
-
-### Apa tujuannya?
-
-...
+Suatu perguruan tinggi boleh melakukan ratusan bahkan ribuan riset, yang bisa saja sia-sia bila tidak disebarkan. Kami dalam ini menempatkan sebagian tanggungjawab menyebarkan informasi  kepada penulis atau peneliti itu sendiri. 
 
 ## Berbagai indikator riset saat ini
 
