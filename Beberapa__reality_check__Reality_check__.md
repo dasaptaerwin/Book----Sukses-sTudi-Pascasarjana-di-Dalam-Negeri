@@ -1,8 +1,10 @@
 # Beberapa _reality check_
 
+Bab ini saya tulis bukan untuk menurunkan semangat, namun lebih kepada menarik kaki anda agar lebih menjejak bumi. Percaya diri dan sombong adalah dua hal yang sangat berbeda dan tebal garis batasnya.
+
 ## Reality check no 1: Sekolah di LN bukanlah segalanya
 
-Saya pernah bertemu, berdialog secara langsung, mendengar pengalaman rekan saya atau cerita dari istri saya, tentang banyaknya alumni pasca sarjana LN baik S2 atau S3, bahkan yang masih mahasiswa dan belum lulus, yang over-confident dengan statusnya. Mereka merasa sebagai kaum pilihan, yang juga patut mendapatkan perlakuan beda ketika pulang nanti, beberapa malah tidak ingin pulang.
+Saya pernah bertemu, berdialog secara langsung, mendengar pengalaman rekan saya atau cerita dari istri saya, tentang banyaknya alumni pasca sarjana LN baik S2 atau S3, bahkan yang masih mahasiswa dan belum lulus, yang _over-confident_ dengan statusnya. Mereka merasa sebagai kaum pilihan, yang juga patut mendapatkan perlakuan beda ketika pulang nanti, beberapa malah tidak ingin pulang.
 
 Buat anak-anak ini, saya sebut anak-anak, karena mereka lebih muda dari adik saya yang paling kecil, saya pun sudah tua (masuk 40 tahun), dan tingkah mereka memang kekanak-kanakan:
 
