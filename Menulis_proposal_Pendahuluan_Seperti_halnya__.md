@@ -10,6 +10,8 @@ Dalam buku kami yang pertama "Menulis ilmiah itu menyenangkan" (Irawan dan Rachm
 
 ## Mengawali dengan ringan
 
+Bagian ini sebenarnya mengulang post kami tahun lalu yang nantinya akan kami alih bahasakan dan perhalus tata bahasanya.
+
 The following post was motivated by my old habit when I was finishing my master and starting a PhD few years back. My school years was the start of internet era in my university, Institut Teknologi Bandung. It was 1999-2005. I pursued my master in 1999-2001, so it’s kind of the middle between “a non-url era” to “dot.com” time. I collected papers for my master thesis as well as preparing topics for my PhD. In those days my paper collection was literally a collection of papers, stacked on the corner of my desk. I will snap it and post it if I had time to visit my old desk.
 
 That habit is going strong with more open repository site and research platform offering tools to build and curate paper collection. One of them is ScienceOpen (and perhaps more sites like this with different field of science), an open access research platform. This morning I added one more collection on that site, adding my previous Hydrology collection.
@@ -28,9 +30,16 @@ Mungkin anda bertanya, "Tujuannya kan menulis sesuatu, bila terus membaca, kapan
 
 Percayalah dulu kami juga berpikir begitu. 
 
-Intinya adalah dengan membaca, anda memandu pikiran menuju ke satu arah. Makin banyak membaca, arah itu makin terlihat. Makin banyak lagi membaca, maka arah itu akan dapat ditebak. Dan membaca lebih banyak lagi, maka anda akan melihat berbagai "lubang kecil" untuk diisi. "Lubang" saking kecilnya  hanya dapat dilihat oleh para "pengendara" (anda) yang telah sering melalui jalan tersebut. Anda telah tahu, kapan harus belok, ada berapa lampu jalan di kanan dan kirinya, bahkan berapa juga tempat sampah yang anda lihat sepanjang perjalanan.
+Intinya adalah dengan membaca, anda memandu pikiran menuju ke satu arah. Mari kita buat analogi perjalanan anda dari lokasi A ke B. Membaca kami analogikan dengan melihat peta. Coba anda perhatikan kisah kami ini. 
 
-Pada akhirnya, saat melakukan perjalanan anda sendiri, maka anda dapat menyelesaikan dengan baik dan selamat dengan nilai tambah. Nilai tambah itu adalah originalitas. Dan originalitas itu bukanlah selalu berarti membuat "jalan pintas" baru, teapi bisa berupa "lubang-lubang" kecil yang telah anda tambal tadi. 
+Makin banyak membaca, arah itu makin terlihat. Makin banyak lagi membaca, maka arah itu akan dapat ditebak. Dan membaca lebih banyak lagi, maka anda akan melihat berbagai "lubang kecil" untuk diisi. "Lubang" saking kecilnya  hanya dapat dilihat oleh para "pengendara" (anda) yang telah sering melalui jalan tersebut. Anda telah tahu, kapan harus belok, ada berapa lampu jalan di kanan dan kirinya, bahkan berapa juga tempat sampah yang anda lihat sepanjang perjalanan.
+
+Pada akhirnya, saat melakukan perjalanan anda sendiri, maka anda dapat menyelesaikan dengan baik dan selamat dengan nilai tambah. Nilai tambah itu adalah originalitas. Dan originalitas itu bukanlah selalu berarti membuat "jalan pintas" baru, tapi bisa berupa "lubang-lubang" kecil yang telah anda tambal tadi. 
+
+Tentu saja, dengan dana yang  lebih besar anda bisa merintis jalan baru dengan terbang misalnya. Jelas orisinal karena anda mengusulkan cara baru untuk pindah dari lokasi A ke B.
+
+Orisinalitas juga dapat dicapai bila anda punya lebih banyak waktu. Anda bisa mengusulkan perjalanan tetap via darat, tapi anda memotong arah melalui gunung, laut, dan hutan. 
+
 
 ## Catatan akhir
 
