@@ -2,10 +2,15 @@
 
 ## Pendahuluan
 
+...
+
 ### Apakah itu?
+
+...
 
 ### Apa tujuannya?
 
+...
 
 ## Berbagai indikator riset saat ini
 
@@ -31,7 +36,13 @@ Di luar dari itu, dalam pemahaman _open science_, beberapa hal ini juga terhitun
 Anda memang harus lebih kreatif lagi untuk menekankan pentingnya makalah anda. Pekerjaan tidak berhenti saat makalah telah terbit. Pada tulisan terpisah, kami akan sampaikan paparan tentang alternatif _scientific metric_.
 
 ## Menghindari _scooping_
+
+...
+
+## Mengapresiasi karya orang lain
+
 ...
 
 ## Catatan akhir
+
 ...
