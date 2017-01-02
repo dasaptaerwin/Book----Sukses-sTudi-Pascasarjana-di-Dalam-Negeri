@@ -87,6 +87,14 @@ Bila penulis menyusun tulisannya dengan baik dan mereka menyampaikan gambar/ilus
 
 Seperti halnya Bab Pendahuluan, JTL biasanya tidak membaca Bab Kesimpulan. Bab ini biasanya adalah rekapitulasi apa yang telah dilakukan di bagian-bagian sebelumnya ditambah dengan sedikit ulasan, bagaimana hasilnya dapat memenuhi lingkup yang lebih luas.
 
+## Jelaskan (apa yang telah anda pahami) kepada orang lain
+
+Membaca makalah akademik adalah cara yang bagus untuk menangkap perkembangan ilmu. Tapi umumnya kita belum yakin tentang apa yang telah dipahami sebelum kita mampu menjelaskannya kepada orang lain, dan membuatnya paham. Maka JTL menyarankan untuk mendiskusikan suatu makalah dengan beberapa orang, misalnya dengan membentuk journal club.
+
+Saat ini ada situs jejaring reviewer bernama [Publons](publons.com). Situs ini beranggotakan para peneliti yang membuat hasil reviewnya terhadap suatu dokumen ilmiah. SKor diberikan untuk orang yang telah membagikan hasil reviewnya. Coba anda kunjungi. Cari tahu apakah orang lain telah membaca makalah yang sama
+
+Banyak makalah yang dinilai menarik oleh beberapa orang, juga dinilai bagus oleh sebagian pembaca yang lainnya. Satu cara yang baik untuk melihat apakah suatu makalah telah didiskusikan oleh banyak orang, adalah dengan mencari apakah ada blog yang telah membahasnya. Blog mengandung pendapat penulisnya (pemilik blog), sehingga sifatnya sangat subyektif. Oleh karenanya selain membaca pendapat yang mendukungMembaca makalah akademik adalah cara yang bagus untuk menangkap perkembangan ilmu. Tapi umumnya kita belum yakin tentang apa yang telah dipahami sebelum kita mampu menjelaskannya kepada orang lain, dan membuatnya paham. Maka JTL menyarankan untuk mendiskusikan suatu makalah dengan beberapa orang. Cara yang paling baik adalah dengan membentuk [journal club](https://en.wikipedia.org/wiki/Journal_club).
+
 ## Catatan akhir
 
 Satu hal yang perlu diingat adalah bahwa perkembangan sains seringkali lambat, konstan, dan bertahap. Tetapi ada tekanan sangat besar bagi para saintis untuk menghasilkan “terobosan” (baca juga artikel JTL ini “i got a big one here” fallacy). Saat membaca makalah, anda harus berprasangka baik. Bila ada penulis yang berpendapat bahwa ia dapat menyembuhkan kanker atau menemukan kehidupan di Mars atau teori canggih lainnya, maka anda perlu meyakini kepakarannya, kecuali ada bukti yang sebaliknya.
