@@ -1,5 +1,7 @@
 # Beberapa _reality check_
 
+## Pendahuluan
+
 Bab ini saya tulis bukan untuk menurunkan semangat, namun lebih kepada menarik kaki anda agar lebih menjejak bumi. Percaya diri dan sombong adalah dua hal yang sangat berbeda dan tebal garis batasnya.
 
 ## Reality check no 1: Sekolah di LN bukanlah segalanya
@@ -65,3 +67,6 @@ Maksud saya begini, kalau anda berpikir bahwa riset yang original adalah yang sa
 Ada beberapa orang yang merasa bidang ilmunya adalah yang paling rumit, paling sulit, sehingga jadi yang paling keren diantara rekan-rekannya. Dear sir believe me, “complexity is only in the state of mind”. Buat orang ekonomi, mungkin bidang ilmu kebumian menurutnya paling rumit. Di sisi lain, para ahli kebumian merasa apa yang dikerjakannya adalah yang paling sederhana di dunia ini. Justru mereka beranggapan ilmu yang menggabungkan berbagai aspek kehidupan, seperti ekonomi, itu lah yang lebih rumit.
 
 > So stop bragging about what major you are in, and what university you go to.
+
+## Catatan akhir
+...
