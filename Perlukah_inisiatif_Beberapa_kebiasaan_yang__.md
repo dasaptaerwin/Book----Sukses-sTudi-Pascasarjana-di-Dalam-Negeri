@@ -19,4 +19,3 @@
 
 
 
-# Menulis tesis/disertasi dengan upaya minimum
