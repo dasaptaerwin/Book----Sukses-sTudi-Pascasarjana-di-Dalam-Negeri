@@ -41,6 +41,13 @@ Bagian ini sengaja saya tulis dengan lebih rinci secara terpisah karena penting 
 
 Mengapa data termasuk salah satu yang perlu dibagi-pakaikan. Selain karena alasan praktis, bahwa makalah dengan data yang baik, terstruktur, dan lengkap memiliki potensi dirujuk lebih besar, daripada makalah tanpa lampiran data, ada alasan lain. Data adalah hasil riset yang sangat berharga. Dana telah dikeluarkan untuk mendapatkannya, maka sudah selayaknya data adalah output utama riset, lebih tinggi dibanding analisis atau sintesis terhadapnya (Steel, 2016). Terutama pada riset yang dikerjakan atas dana masyarakat (anggaran negara), maka data yang dihasilkan adalah produk untuk publik (public goods) yang harus dibagikan dengan berbagai cara tanpa mengganggu hak cipta dari tim penyusunnya (RCUK, 2015). Namun tentunya publikasi data harus dilakukan secara cermat, antara lain bisa menyangkut identitas pasien di dunia kedokteran, atau keamanan negara. Beberapa contoh mengenai open data adalah Demographic and Health Survey (DHS), Indonesia Family Life Survey (IFLS), UK Water quality data archive, US open climate data initiatives,  plot data kualitas air Bandung (Irawan, 2016), and data paper on water quality in Semarang area (Irawan and Putranto, 2016).
 
+Citations:
+
+Steel, Graham (2016): Understanding and overcoming challenges to sharing personal and sensitive data. figshare. https://dx.doi.org/10.6084/m9.figshare.3466727.v1 Retrieved: 20 31, Nov 11, 2016 (GMT).
+RCUK (2015, July): RCUK Common Principles on Data Policy. url: http://www.rcuk.ac.uk/research/datapolicy/, Retrieved November 11, 2016.
+Irawan, DE. (2016): Promoting open science: The state of open data initiatives, PAAI Conference 17 Nov 2016.
+Irawan, D. E. and Putranto, T. T.: Hydrochemical assessment of Semarang area using multivariate statistics: A sample based dataset, Earth Syst. Sci. Data Discuss., doi:10.5194/essd-2016-29, 2nd round review, 2016.
+
 ## Menghindari _scooping_
 
 ...
