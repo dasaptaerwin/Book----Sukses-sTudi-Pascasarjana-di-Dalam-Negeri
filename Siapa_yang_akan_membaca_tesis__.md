@@ -7,11 +7,13 @@ Pertanyaan bagus. Karena pertanyaan itulah kami menulis **Bab Mengkomunikasikan 
 Berikut ini adalah beberapa hal yang pernah saya baca, saya dengar, dan ditanyakan oleh mahasiswa S3. Mungkin saya menulis dalam nada agak aneh, tapi jangan menyurutkan semangat ya. No urut diberikan tapi membacanya tidak harus urut.
 
 ## Tanya: Siapakah yang akan membaca disertasi saya?
+
 Jawab: selain anda, pembimbing, penguji, orangtua, mertua, istri, anak-anak. maka tidak akan ada lagi yang akan membaca buku disertasi anda. Jadi maksimum hanya 12 orang yang akan membaca buku warna biru gelap itu. Well mungkin tambah satu, pustakawan yang menerima disertasi, membaca covernya dan mencatatnya dalam daftar buku koleksi perpustakaan. Lebih jauh anda dapat membaca post ini.
 
 borrowed from: https://careerprojections.files.wordpress.com/2014/10/cartoon5009.png
 
 ## Apakah boleh mempublikasikan disertasi saat belum dinyatakan lulus oleh Tim Penguji?
+
 Jawab: Bukan hanya boleh, tapi sangat dianjurkan. Kalau di luar negeri malah diharuskan, terlepas dari jenisnya sebagai thesis atau thesis by publication. Bahwa penulisan thesis memiliki dimensi garis waktu, bukanlah sebuah titik. Jadi pastinya akan ada banyak perubahan dari waktu ke waktu. Oleh karenanya sangat bisa dipublikasikan per tahap. Sempat juga untuk membaca post ini.
 
 Borrowed from https://s-media-cache-ak0.pinimg.com/originals/dc/68/7e/dc687e289ce26027253a824b5c08c1d5.jpg
@@ -19,7 +21,9 @@ Borrowed from https://s-media-cache-ak0.pinimg.com/originals/dc/68/7e/dc687e289c
 Borrowed from https://s-media-cache-ak0.pinimg.com/originals/dc/68/7e/dc687e289ce26027253a824b5c08c1d5.jpg
 
 ## Tanya: Apakah mempublikasikan disertasi tidak masuk sebagai (self) plagiarism?
+
 Jawab: bisa jadi betul, bila pemikiran anda statis. Maka anda akan hanya meng-copy paste teks publikasi yang anda tulis sebelum lulus ke dalam naskah disertasi. Saya akan balik tanya: apa iya selama tiga atau empat tahun anda menyelesaikan disertasi, pikiran anda statis. Seperti yang saya sampaikan di nomor 2, bahwa menulis disertasi ibarat garis bukan titik. Bila ada waktu luangkan waktu untuk membaca post tentang plagiarisme di sini dan tentang self plagiarism di sini — yang menjelaskan bahwa ternyata definisi self plagiarism ternyata masih belum jelas atau menjadi kabur dengan banyaknya jenis media online saat ini — dan di sini — yang merupakan contoh kasus yang disampaikan oleh COPE (Committee on Publication Ethics) serta bagaimana solusinya.
+
 Pembahasan bagian ini perlu jadi perhatian kita semua juga peringatan untuk saya sendiri untuk selalu mengembangkan wawasan mengenai “plagiarism”. Zaman berkembang, situasi berubah, definisi hal-hal yang termasuk plagiarism dapat bergeser, maka solusinya pun harus dinamis.
 
 Borrowed from: https://s-media-cache-ak0.pinimg.com/originals/b0/60/a2/b060a2349f4f6256ae15072843a602a9.jpg
