@@ -1,0 +1,18 @@
+# Menulis tesis/disertasi dengan upaya minimum
+
+Saat ini alur kerja riset mengikuti pola yang selama ini dianut, sejak mencari ide, mengambil data, menganalisis, menginterpretasi, dan melaporkan. Pola kerja periset yang kami amati masih bersifat offline. Seluruh hasil kerja tersimpan dalam hard drive masing-masing periset dan yang pada saatnya akan digabungkan secara offline pula. Tipikal pola kerja adalah sebagai berikut:
+
+Purpose is the reason of your journey. Passion is the fire that lights your way. 
+
+(Borrowed from an article on Huffington post via Pinterest)
+
+1. **bekerja secara offline (to work offline)**: modus yang paling sering dilakukan adalah bekerja secara off line. Bilamana terjadi kolaborasi, dilakukan dengan cara pertukaran file melalui surel atau usb drive. Sedikit kemajuan terjadi saat ini karena penggunaan Google Drive (produk Google) atau OneDrive (produk Microsoft),
+2. **bekerja dengan piranti lunak berbayar (to work using proprietary tools)**: piranti lunak yang digunakan umumnya yang berbayar, misal: Microsoft Office, SPSS, ArcGIS, Matlab, dan piranti lunak berbayar lainnya. Sangat sedikit institusi di Indonesia yang memiliki lisensi institusional terhadap penggunaan piranti lunak-piranti lunak tersebut.
+3. **bekerja dengan format binary (to work in binary format)**: data diolah dalam format binary dengan piranti lunak berbayar, misal xls dari Microsoft Excel, sav dari SPSS, dll. Ini menjadi masalah kepada penulis sendiri. Terkadang kita bekerja dengan berbagai format file Microsoft Word yang sering tidak dapat saling membaca, biasanya format yang lebih baru tidak dapat dibaca oleh versi piranti lunak yang lebih lama;
+4. **bekerja dengan media penyimpanan data offline (to work with offline storage)**: penyimpanan file dilakukan secara off line, begitu pula media backupnya. Peredaran datapun dibatasi di tim penulis saja. Hal ini sudah sangat berkurang dengan adanya Dropbox, Google Drive, dan yang sejenisnya;
+5. **bekerja dengan sistem diseminasi terbatas (to work with limited dissemination)**: hasil riset ditulis sebagai laporan dan diedarkan secara terbatas. Kondisi sedikit lebih baik saat hasil riset disampaikan dalam seminar tertutup;
+6. **bekerja dengan jejaring kolaborasi terbatas (to work in a narrow-bounded collaboration)**: mayoritas riset saat ini dilakukan oleh seseorang atau beberapa orang yang berada dalam organisasi yang sama. Oleh karenanya pengetahuan, sumber daya, dana, juga akan terbatas;
+7. **bekerja kemudian menulis pelaporan di bagian akhir (to work on the reporting at the end)**: saat ini alur kerja yang sering dijalankan adalah meneliti kemudian menulis laporan hanya di akhir. Jadi sebelum riset selesai atau dinyatakan selesai, maka laporan tidak akan pernah anda temukan;
+8. **bekerja dengan sedikit atau bahkan tanpa umpan balik (to work with less or no feedback)**: Feedback hanya akan masuk dari rekan-rekan di sekitar penulis atau peneliti. Umpan balik tersebut hanya diberikan di akhir saat laporan telah selesai disusun;
+9. **bekerja secara sequential atau linear (to work in sequential and linear mode)**: Riset dilaksanakan secara berurutan (sequential) dan linear, nyaris tanpa variasi dengan dinamika. Padahal kita tahu bahwa banyak sekali kendala yang dapat mengendalikan arah riset (tidak akan linear);
+10. **bekerja dalam suasana “kering” (_to work without passion_)**: kami memunculkan hal ini di bagian akhir untuk mensimulasikan kondisi riset dan para penelitinya dengan berbagai kondisi yang telah disebutkan sebelumnya. Kering dalam hal ini kami artikan sebagai membosankan, tanpa variasi, tidak ada kegembiraan, tidak adanya semangat, passion, dan aura positif yang dapat dibagikan kepada lingkungan atau pembaca.
