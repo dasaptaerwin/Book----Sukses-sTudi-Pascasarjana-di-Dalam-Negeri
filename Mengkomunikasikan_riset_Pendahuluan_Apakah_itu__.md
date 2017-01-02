@@ -35,6 +35,12 @@ Di luar dari itu, dalam pemahaman _open science_, beberapa hal ini juga terhitun
 
 Anda memang harus lebih kreatif lagi untuk menekankan pentingnya makalah anda. Pekerjaan tidak berhenti saat makalah telah terbit. Pada tulisan terpisah, kami akan sampaikan paparan tentang alternatif _scientific metric_.
 
+## Data sebagai _public goods_
+
+Bagian ini sengaja saya tulis dengan lebih rinci secara terpisah karena penting dan hingga saat ini belum banyak memahami bahwa data adalah salah satu dari output riset yang dapat dikemas secara terpisah.
+
+Mengapa data termasuk salah satu yang perlu dibagi-pakaikan. Selain karena alasan praktis, bahwa makalah dengan data yang baik, terstruktur, dan lengkap memiliki potensi dirujuk lebih besar, daripada makalah tanpa lampiran data, ada alasan lain. Data adalah hasil riset yang sangat berharga. Dana telah dikeluarkan untuk mendapatkannya, maka sudah selayaknya data adalah output utama riset, lebih tinggi dibanding analisis atau sintesis terhadapnya (Steel, 2016). Terutama pada riset yang dikerjakan atas dana masyarakat (anggaran negara), maka data yang dihasilkan adalah produk untuk publik (public goods) yang harus dibagikan dengan berbagai cara tanpa mengganggu hak cipta dari tim penyusunnya (RCUK, 2015). Namun tentunya publikasi data harus dilakukan secara cermat, antara lain bisa menyangkut identitas pasien di dunia kedokteran, atau keamanan negara. Beberapa contoh mengenai open data adalah Demographic and Health Survey (DHS), Indonesia Family Life Survey (IFLS), UK Water quality data archive, US open climate data initiatives,  plot data kualitas air Bandung (Irawan, 2016), and data paper on water quality in Semarang area (Irawan and Putranto, 2016).
+
 ## Menghindari _scooping_
 
 ...
