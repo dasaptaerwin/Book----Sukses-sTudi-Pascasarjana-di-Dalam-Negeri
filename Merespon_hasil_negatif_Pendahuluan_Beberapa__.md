@@ -4,7 +4,7 @@
 
 Beberapa waktu yang lalu seorang mahasiswa S3 menemui saya untuk menceritakan kondisi risetnya yang masih saja menemui hasil negatif. Promotornya terus-terusan mendorongnya untuk mengulang eksperimen dan pengukuran berbagai parameter di lapangan. Mahasiswa tersebut telah mengulang eksperimen dan pengambilan data tapi tetap saja, hipotesis yang diharapkan tidak kunjung datang. 
 
-Jawaban saya kala itu adalah, "Apa salahnya mendapatkan hasil negatif yang membuat riset tidak pernah dipublikasikan?". Diskusi panjang kami lainnya di adalah di Our long discussions ended up with the following post, [Why science needs to publish negative results](https://www.elsevier.com/authors-update/story/innovation-in-publishing/why-science-needs-to-publish-negative-results) by Emma Granqvist (the above pic was borrowed from the mentioned site).
+Jawaban saya kala itu adalah, "Apa salahnya mendapatkan hasil negatif yang membuat riset tidak pernah dipublikasikan?". Diskusi panjang kami lainnya di adalah di Our long discussions ended up with the following post, [Why science needs to publish negative results](https://www.elsevier.com/authors-update/story/innovation-in-publishing/why-science-needs-to-publish-negative-results) oleh Emma Granqvist (the above pic was borrowed from the mentioned site). Media populer lainnya [The Scientist](http://www.the-scientist.com/?articles.view/articleNo/33968/title/Opinion--Publish-Negative-Results/) yang berjudul _Opinion: Publish Negative Results: Non-confirmatory or “negative” results are not worthless_.
 
 ## Hasil negatif sangat berarti
 
