@@ -4,7 +4,7 @@ Bab ini kami tulis menggunakan logika berlawanan dalam konteks bahwa menulis tes
 
 ## Pola lama
 
-Saat ini alur kerja riset mengikuti pola yang selama ini dianut, sejak mencari ide, mengambil data, menganalisis, menginterpretasi, dan melaporkan. Pola kerja periset yang kami amati masih bersifat offline. Seluruh hasil kerja tersimpan dalam hard drive masing-masing periset dan yang pada saatnya akan digabungkan secara offline pula. Tipikal pola kerja adalah sebagai berikut:
+Saat ini alur kerja riset mengikuti pola yang selama ini dianut, sejak mencari ide, mengambil data, menganalisis, menginterpretasi, dan melaporkan. Pola kerja periset yang kami amati masih bersifat offline. Seluruh hasil kerja tersimpan dalam _hard drive _ masing-masing periset dan yang pada saatnya akan digabungkan secara _offline_ pula. Tipikal pola kerja adalah sebagai berikut:
 
 Purpose is the reason of your journey. Passion is the fire that lights your way. 
 
