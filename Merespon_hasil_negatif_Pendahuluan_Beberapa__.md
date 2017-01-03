@@ -13,7 +13,8 @@ Saat ini hasil negatif sangat berarti kepada kelangsungan riset, dengan kata lai
 - prosedur analisis yang salah
 - pengambilan data yang keliru sehingga sampel rusak
 - kerusakan alat
-- hipotesis yang salah arah dll
+- hipotesis yang salah arah
+- syarat batas keliru atau harus ditambah dll
 
 Di sisi lain bila hasil negatif riset anda dipublikasikan, maka peneliti lain akan waspada terhadap berbagai kondisi dan kesalahan yang telah anda lakukan sebelumnya. 
 
